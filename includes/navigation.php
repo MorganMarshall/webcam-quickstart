@@ -63,10 +63,9 @@
   <div class="hero-body">
     <div class="container">
       <h1 class="title">
-			Welcome to my Atlas Cam
+Welcome to my Atlas Cam
       </h1>
       <h2 class="subtitle">
-       
 Quickstart for integrating a webcam into your app!
       </h2>
     </div>
