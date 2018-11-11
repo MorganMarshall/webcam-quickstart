@@ -33,7 +33,7 @@
           <a class="navbar-item">
             Jobs
           </a>
-          <a class="navbar-item">
+          <a class="navbar-item" href="contact.php">
             Contact
           </a>
           <hr class="navbar-divider">

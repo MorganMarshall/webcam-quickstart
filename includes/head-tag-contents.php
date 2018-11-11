@@ -13,12 +13,21 @@
 	box-shadow: 0 20px 20px #777;
 }
 
+#main-content {
+		width: 80%;
+	}
 
 	#main-content-about {
 		padding-top:40px;
-		padding-bottom: 22%;
+		padding-bottom: 18%;
 		width: 80%;
 	}
+
+#main-content-contact {
+	margin-top: 40px;
+	padding-bottom: 18%;
+}
+
 	.footer {
 		font-size: 15px;
 		text-align: center;
@@ -29,7 +38,5 @@
 		padding-right: 4px;
 	}
 
-	#main-content {
-		width: 80%;
-	}
+	
 </style>
