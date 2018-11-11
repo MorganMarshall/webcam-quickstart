@@ -19,13 +19,13 @@
 
 	#main-content-about {
 		padding-top:40px;
-		padding-bottom: 18%;
+		padding-bottom: 16%;
 		width: 80%;
 	}
 
 #main-content-contact {
 	margin-top: 40px;
-	padding-bottom: 18%;
+	padding-bottom: 16%;
 }
 
 	.footer {
